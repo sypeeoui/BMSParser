@@ -1,0 +1,1919 @@
+{
+	"chartinfo": {
+	"genre": "FORTISSIMO",
+	"title": "Implexrough",
+	"artist": "Silentroom mommy Nate",
+	"bpm": 150,
+	"playlevel": 5,
+	"rank": 3,
+	"subtitle": "[DP NORMAL]"
+},
+
+"bars": [
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 0,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.4375,
+	"channels": ["12"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.375,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.8333333333333334,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.9166666666666666,
+	"channels": ["13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.9375,
+	"channels": ["15"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.5,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.8125,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.25,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.0625,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.125,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.0625,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.125,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["15"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.375,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.5625,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.9375,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.5625,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.75,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["12"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.3125,
+	"channels": ["13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.3125,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.375,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.8125,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.3125,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.9375,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.78125,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.8125,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.6875,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.11458333333333333,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.4947916666666667,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.25,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.5625,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.9583333333333334,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.08333333333333333,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.17708333333333334,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.5572916666666666,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.6510416666666666,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.7708333333333334,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.09895833333333333,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.3229166666666667,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.5729166666666666,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.7864583333333334,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.921875,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.34375,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.3697916666666667,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.5052083333333334,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.125,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.9375,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["15"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.5625,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.8125,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.9375,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["12"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.25,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.5625,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.8125,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.375,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.5625,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["15"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.375,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.5625,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.8125,
+	"channels": ["14"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.8125,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.125,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.4375,
+	"channels": ["13"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["12"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.5,
+	"channels": ["12"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.8125,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.1875,
+	"channels": ["17"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.4375,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["11"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.5,
+	"channels": ["14"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["12"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.4375,
+	"channels": ["12"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.5,
+	"channels": ["17"],
+	"holds": []
+},
+{
+	"time": 0.6875,
+	"channels": ["15"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0.0625,
+	"channels": ["11"],
+	"holds": []
+},
+{
+	"time": 0.75,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.875,
+	"channels": ["16"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+},
+	{
+	"notes": [{
+	"time": 0,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.125,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.25,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.375,
+	"channels": ["16"],
+	"holds": []
+},
+{
+	"time": 0.625,
+	"channels": ["15", "13"],
+	"holds": []
+}],
+	"sigchange": false,
+	"sigvalue": 1,
+	"bpmchange": false,
+	"bpmvalue": 150,
+	"stop": false,
+	"stopvalue": 0
+}
+]
+}
