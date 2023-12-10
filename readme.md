@@ -48,7 +48,7 @@ Il programma è stato sviluppato in rust per leggere i file BMS e per estrarre l
 - `rustc src/main.rs`
 - `./main examples/Altros_a.bms` 
 - copia il contuto del file `examples/Altros_a.json`
-- vai su [suqi.ddns.net](https://suqi.ddns.net)
+- vai su [suqichen.ddns.net](https://suqichen.ddns.net)
 - F12 -> Console
 - avvia una difficoltà qualsiasi di Altros
 - sulla console scrivi:
