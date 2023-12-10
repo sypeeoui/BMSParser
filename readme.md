@@ -3,7 +3,7 @@
 ## Descrizione
 
 I file BMS [(wikipedia)](https://en.wikipedia.org/wiki/Be-Music_Source) sono il formato standard per la creazione di mappe per giochi ritmici della tipologia beatmania.
-Il programma è stato sviluppato in rust per leggere i file BMS e per estrarre le informazioni contenute al loro interno. In particolare il file viene convertito in file json che può essere letto e giocato su [suqi.ddns.net](https://suqi.ddns.net).
+Il programma è stato sviluppato in rust per leggere i file BMS e per estrarre le informazioni contenute al loro interno. In particolare il file viene convertito in file json che può essere letto e giocato su [suqichen.ddns.net](https://suqichen.ddns.net).
 
 ## Compilazione ed esecuzione
 
