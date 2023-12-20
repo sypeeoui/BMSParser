@@ -18,7 +18,8 @@ fn main() {
         return;
     } else if args.len() == 2 {
         input_file = args[1].to_string();
-        output_file = input_file[..input_file.len() - 4].to_string() + ".json";
+        let index = input_file.rfind('.').unwrap();
+        output_file = input_file[..index].to_string() + ".json";
     } else if args.len() == 3 {
         input_file = args[1].to_string();
         output_file = args[2].to_string();
